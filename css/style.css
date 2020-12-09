@@ -308,6 +308,10 @@ section .heading h2{
     margin-bottom: 20px;
 }
 
+#githubLogo {
+    padding: 45px 5px;
+}
+
 /* RECOMMANDATIONS */
 #recommandations {
     background: #fff;
