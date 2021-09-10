@@ -32,7 +32,7 @@ section .heading h2{
 .red-divider {
     width: 100px;
     height: 2px;
-    background: #d82c2e;
+    background: #209C6F;
     margin: 0 auto 20px;
 }
 
@@ -45,7 +45,7 @@ section .heading h2{
 
 /* MENU */
 .navbar {
-    background-color: #d82c2e;
+    background-color: #209C6F;
     font-size: 12px;
     border-bottom: 1px solid #fff;
     letter-spacing: 2px;
@@ -57,7 +57,7 @@ section .heading h2{
     text-align: right;
 }
 .nav-pills .nav-link.active,  .nav-pills .nav-link:hover {
-    color: #d82c2e !important;
+    color: #209C6F !important;
     background-color: #fff !important;
 }
 .navbar-toggler {
@@ -69,7 +69,7 @@ section .heading h2{
 /* ABOUT */
 #about {
     padding-top: 50px;
-    background: #d82c2e;
+    background: #209C6F;
 }
 
 .profile-picture {
@@ -104,7 +104,7 @@ section .heading h2{
 
 .buttonDl:hover {
     background: white;
-    color: #d82c2e;
+    color: #209C6F;
     text-decoration: none;
 }
 
@@ -114,7 +114,7 @@ section .heading h2{
 }
 
 #skills .heading h2 {
-    color: #d82c2e;
+    color: #209C6F;
 }
 
 #skills .progress {
@@ -124,7 +124,7 @@ section .heading h2{
 }
 
 #skills .progress-bar {
-    background: #d82c2e;
+    background: #209C6F;
 }
 
 #skills .progress h5 {
@@ -134,7 +134,7 @@ section .heading h2{
 
 /* EXPERIENCE */
 #experience {
-    background: #d82c2e;
+    background: #209C6F;
 }
 
 #experience .heading h2 {
@@ -173,7 +173,7 @@ section .heading h2{
 }
 
 .timeline li .timeline-badge {
-    color: #d82c2e;
+    color: #209C6F;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -238,7 +238,7 @@ section .heading h2{
 }
 
 .timeline-heading h4 {
-    color: #d82c2e;
+    color: #209C6F;
 }
 
 /* EDUCATION */
@@ -247,7 +247,7 @@ section .heading h2{
 }
 
 #education .heading h2 {
-    color: #d82c2e;
+    color: #209C6F;
 }
 
 .education-block {
@@ -272,7 +272,7 @@ section .heading h2{
 }
 
 .education-block h3 {
-    color: #d82c2e;
+    color: #209C6F;
     line-height: 1.1;
     margin-bottom: 20px;
 }
@@ -291,7 +291,7 @@ section .heading h2{
 
 /* PORTFOLIO */
 #portfolio {
-    background: #d82c2e;
+    background: #209C6F;
 }
 #portfolio .heading h2 {
     color: #fff;
@@ -319,11 +319,11 @@ section .heading h2{
     background: #fff;
 }
 #recommandations .heading h2 {
-    color: #d82c2e;
+    color: #209C6F;
 }
 .fas.fa-chevron-left, .fas.fa-chevron-right {
     background-image: none;
-    color: #d82c2e;
+    color: #209C6F;
 }
 .carousel-indicators {
     bottom: 0px;
@@ -332,16 +332,16 @@ section .heading h2{
     width: 10px;
     height: 10px;
     border-radius: 100%;
-    border: 1px solid #d82c2e;
+    border: 1px solid #209C6F;
 }
 .carousel-indicators li.active {
-    background-color: #d82c2e;
+    background-color: #209C6F;
 }
 #myCarousel .carousel-item {
     padding: 40px 30px;
 }
 #myCarousel .carousel-item h3 {
-    color: #d82c2e;
+    color: #209C6F;
     font-style: italic;
 }
 
@@ -354,7 +354,7 @@ footer {
 footer .fas {
     font-size:  25px;
     margin: 20px;
-    color: #d82c2e;
+    color: #209C6F;
     height: 30px;
 }
 footer .fas:hover {
