@@ -251,8 +251,8 @@ section .heading h2{
 }
 
 .education-block {
-    width: 80%;
-    margin: 0 auto;
+    width: 90%;
+    margin: 0 20px;
     text-align: center;
     padding: 30px;
     background: #ddd;
@@ -273,6 +273,8 @@ section .heading h2{
 
 .education-block h3 {
     color: #d82c2e;
+    line-height: 1.1;
+    margin-bottom: 20px;
 }
 
 .education-block h4 {
