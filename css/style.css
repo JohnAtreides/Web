@@ -65,6 +65,17 @@ section .heading h2{
     border-style: none;
 }
 
+/* HELLO */
+#hello {
+    background: #209C6F;
+}
+
+#hello h1 {
+    background: #209C6F;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
 
 /* ABOUT */
 #about {
@@ -306,12 +317,26 @@ section .heading h2{
      filter: none;
     -webkit-filter: none; 
 }
+#portfolio .col-lg-12 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#portfolio .col-lg-12 h3 {
+    margin: 10px 0 5px;
+}
+
 #portfolio .col-md-4 {
     margin-bottom: 20px;
 }
 
 #githubLogo {
     padding: 45px 5px;
+}
+
+#imgProfil {
+    max-height: 310px;
+    max-width: 230px;
 }
 
 /* RECOMMANDATIONS */
@@ -349,11 +374,10 @@ section .heading h2{
 /* FOOTER */
 footer {
     background: #333;
-    padding: 20px 0 40px;
+    padding: 20px 0 20px;
 }
 footer .fas {
     font-size:  25px;
-    margin: 20px;
     color: #209C6F;
     height: 30px;
 }
