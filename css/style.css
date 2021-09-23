@@ -248,8 +248,11 @@ section .heading h2{
     font-size: 20px;
 }
 
-.timeline-heading h4 {
+.timeline-heading h4, a {
     color: #209C6F;
+}
+.timeline-heading h4 a:hover{
+    color: #0000EE;
 }
 
 /* EDUCATION */
